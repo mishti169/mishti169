@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mishti169
 - 👀 I’m interested in Web Design and Development
-- 🌱 I’m currently learning HTML CSS and JavaScript
+- 🌱 I’m currently learning HTML CSS JavaScript and ReactJs
 - 📫 How to reach me, Twitter - @mishti169
 
 <!---
